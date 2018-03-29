@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "3D vision",
-    "Deep Learning",
-    "Scene understanding"
+    "Scene understanding",
+    "Deep Learning"    
   ]
 
 # List your qualifications (such as academic degrees).
@@ -28,6 +28,5 @@ weight = 5
  
 +++
 
-# Biography
-
-
+# About Me
+I am a fourth-year Ph.D. student in Computer Science and Engineering at Washington University in St. Louis. I am advised by Professor [Yasutaka Furukawa](http://www.cs.sfu.ca/~furukawa/). My research interests include **3D vision** and **scene understanding**. I am particularly interested in geometry reasoning from static images for indoor scenes.
