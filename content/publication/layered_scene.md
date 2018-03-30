@@ -62,6 +62,3 @@ image = "layered_scene/teaser.png"
 caption = "Our Occlusion-CRF model decompose a scene into layers of segmented depthmaps."
 
 +++
-
-# More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
-
