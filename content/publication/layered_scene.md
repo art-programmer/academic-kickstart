@@ -37,33 +37,31 @@ selected = true
 # #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 # #projects = ["example-external-project"]
 
-# # Links (optional).
-# url_pdf = "http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Layered_Scene_Decomposition_CVPR_2016_paper.pdf"
-# #url_preprint = ""
-# url_code = "https://github.com/art-programmer/LayeredSceneDecomposition"
-# #url_dataset = "#"
-# #url_project = "#"
-# #url_slides = "#"
-# #url_video = "#"
-# #url_poster = "#"
-# #url_source = "#"
+# Links (optional).
+url_pdf = "http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Layered_Scene_Decomposition_CVPR_2016_paper.pdf"
+#url_preprint = ""
+url_code = "https://github.com/art-programmer/LayeredSceneDecomposition"
+#url_dataset = "#"
+#url_video = "#"
+#url_poster = "#"
 
-# # Custom links (optional).
-# #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# #url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+#url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
-# # Does the content use math formatting?
-# math = false
+# Does the content use math formatting?
+math = false
 
-# # Does the content use source code highlighting?
-# highlight = true
+# Does the content use source code highlighting?
+highlight = true
 
-# # Featured image
-# # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# [header]
-# image = "layered_scene/teaser.png"
-# caption = "Our Occlusion-CRF model decompose a scene into layers of segmented depthmaps."
-
-# #More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.+++
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "layered_scene/teaser.png"
+caption = "Our Occlusion-CRF model decompose a scene into layers of segmented depthmaps."
 
 +++
+
+# More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.+++
+
