@@ -30,7 +30,7 @@ abstract = "This paper addresses the challenging problem of perceiving the hidde
 image_preview = "img/layered_scene.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # # Projects (optional).
 # #   Associate this publication with one or more of your projects.
