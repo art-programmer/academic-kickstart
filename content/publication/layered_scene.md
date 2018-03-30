@@ -58,7 +58,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "layered_scene/teaser.png"
+image = "layered-scene/teaser.png"
 caption = "Our Occlusion-CRF model decompose a scene into layers of segmented depthmaps."
 
 +++
